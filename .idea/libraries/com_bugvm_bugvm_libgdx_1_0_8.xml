@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.bugvm:bugvm-libgdx:1.0.8" type="repository">
+    <properties maven-id="com.bugvm:bugvm-libgdx:1.0.8" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bugvm/bugvm-libgdx/1.0.8/bugvm-libgdx-1.0.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/bugvm/bugvm-objc/1.0.8/bugvm-objc-1.0.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/badlogicgames/gdx/gdx/1.7.1/gdx-1.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,6 @@
+projectKey=my:SubmarineBattleGame
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/my:SubmarineBattleGame
+ceTaskId=AWQXhplO3mS-epBA4TP-
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWQXhplO3mS-epBA4TP-
